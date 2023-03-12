@@ -11,4 +11,5 @@ public class VisitStatic {
 
 class A {
 	public static String name = "韩顺平教育";
+	private int num = 10;
 }
